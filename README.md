@@ -4,8 +4,8 @@ Public brand logos for use in email signatures, documents, and web.
 
 | File | Use | Size |
 |---|---|---|
-| `pp-logo.png` | Email signature (display at ~220 px wide; 600 px source for sharp rendering) | 600×118 |
-| `pp-logo-large.png` | Full-resolution master, print and web | 2400×474 |
+| `pp-logo.png` | Email signature (display at ~240 px wide; 720 px source for sharp rendering) | 720×81 |
+| `pp-logo-large.png` | Full-resolution master, print and web | 2164×244 |
 
 Both files have a transparent background and work on white or light backgrounds.
 
