@@ -4,15 +4,15 @@ Public brand logos for use in email signatures, documents, and web.
 
 | File | Use | Size |
 |---|---|---|
-| `pp-logo.png` | Email signature (white background) | 332×160 |
-| `pp-logo-transparent.png` | Signature on non-white backgrounds | 332×160 |
-| `pp-logo-large.png` | Higher-resolution white background | 1318×640 |
-| `pp-logo-transparent-large.png` | Higher-resolution transparent | 1318×640 |
+| `pp-logo.png` | Email signature (display at ~220 px wide; 600 px source for sharp rendering) | 600×118 |
+| `pp-logo-large.png` | Full-resolution master, print and web | 2400×474 |
+
+Both files have a transparent background and work on white or light backgrounds.
+
+Previous logo versions are kept in `archive/` for reference. Do not use them in new material.
 
 ## Direct image URL (for an email signature)
 
 ```
-https://raw.githubusercontent.com/Himbron/pp-brand-assets/main/pp-logo.png
+https://raw.githubusercontent.com/PundP-Sales-Partners/pp-brand-assets/main/pp-logo.png
 ```
-
-Paste that URL where your mail client asks for an image "by URL" (Gmail: Settings → Signature → insert image → Web address).
